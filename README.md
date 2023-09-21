@@ -13,7 +13,7 @@ I am Tamires Beltrão, an economist passionate about business intelligence and d
 ### ⚡ Projects
 
 
-## 💬 Let's talk! --> https://www.linkedin.com/in/tamires-beltrao/
+### 💬 Let's talk! --> https://www.linkedin.com/in/tamires-beltrao/
 
 <!--
 **tamiresbeltrao/Tamiresbeltrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
