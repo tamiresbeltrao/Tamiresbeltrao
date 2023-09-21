@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there! 👋 Welcome to my portfolio!
+
+I am Tamires Beltrão, an economist with a passion for business intelligence and data analysis.
+
+### 🔭 I am experienced in:
+
+### 🌱 I’m currently learning:
+
 
 <!--
 **tamiresbeltrao/Tamiresbeltrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
