@@ -1,6 +1,6 @@
 ## Hi there! 👋 Welcome to my portfolio!
 
-I am Tamires Beltrão, an economist with a passion for business intelligence and data analysis.
+I am Tamires Beltrão, an economist passionate about business intelligence and data analysis.
 
 ### 🔭 I am experienced in:
 
