@@ -10,9 +10,9 @@ Here I'll share:
 - Incursions into data architecture, modeling, and engineering with SQL and Python.
 - New projects combining all these topics and more... 😄
 
-## ⚡ Projects
+## ⚡ My Projects
 
-- <b>R</b>
+- <b>Projects using R</b>
   - [Income Inequality BR](https://github.com/tamiresbeltrao/Income-Inequality-BR)
 
 ## 💬 Let's talk!
