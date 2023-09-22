@@ -12,6 +12,8 @@ Here I'll share:
 
 ## ⚡ Projects
 
+- <b>R</b>
+  - [Income Inequality BR](https://github.com/tamiresbeltrao/Income-Inequality-BR)
 
 ## 💬 Let's talk!
 
