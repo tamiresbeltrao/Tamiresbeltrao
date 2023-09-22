@@ -13,7 +13,7 @@ Here I'll share:
 
 ## 💬 Let's talk!
 
-<a href="[https://www.linkedin.com/in/ravirajsolanki27/](https://www.linkedin.com/in/tamires-beltrao/)" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
+<a href="[https://www.linkedin.com/in/ravirajsolanki27/](https://www.linkedin.com/in/tamires-beltrao/)" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 2rem"/></a>
 
 
 <!--
