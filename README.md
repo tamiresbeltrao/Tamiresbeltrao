@@ -1,6 +1,8 @@
-## Hi there! 👋 Welcome to my portfolio!
+## Hi there! 👋 I am Tamires Beltrão!
 
-I am **Tamires Beltrão**, an economist passionate about business intelligence and data analysis.
+I am an economist passionate about business intelligence and data analysis.
+
+Welcome to my portfolio! 👨‍💻
 
 Here I'll share:
 - Data science projects in R developed during the Master's in Data Science and Marketing Analytics.
