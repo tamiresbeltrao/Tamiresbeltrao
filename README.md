@@ -4,8 +4,8 @@ I am **Tamires Beltrão**, an economist passionate about business intelligence a
 
 Here I'll share:
 - Data science projects in R developed during the Master's in Data Science and Marketing Analytics.
-- Links for experiments with data visualization tools such as Looker, Tableau and Power BI.
-- Incursions into data archtecture, modelling and engeneering with SQL and Python.
+- Links for experiments with data visualization tools such as Looker, Tableau, and Power BI.
+- Incursions into data architecture, modeling, and engineering with SQL and Python.
 - New projects combining all these topics and more... 😄
 
 ## ⚡ Projects
