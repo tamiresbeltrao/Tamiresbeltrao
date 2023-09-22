@@ -8,10 +8,13 @@ Here I'll share:
 - Incursions into data archtecture, modelling and engeneering with SQL and Python.
 - New projects combining all these topics and more... 😄
 
-### ⚡ Projects
+## ⚡ Projects
 
 
-### 💬 Let's talk! --> https://www.linkedin.com/in/tamires-beltrao/
+## 💬 Let's talk!
+
+<a href="[https://www.linkedin.com/in/ravirajsolanki27/](https://www.linkedin.com/in/tamires-beltrao/)" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
+
 
 <!--
 **tamiresbeltrao/Tamiresbeltrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
