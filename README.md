@@ -12,7 +12,7 @@ Here I'll share:
 
 ## ⚡ My Projects
 
-- <b>Projects using R</b>
+- <b>Diverse topic projects from my master's</b>
   - [Income Inequality BR](https://github.com/tamiresbeltrao/Income-Inequality-BR)
 
 ## 💬 Let's talk!
