@@ -14,6 +14,7 @@ Here I'll share:
 
 - <b>Diverse topic projects from my master's</b>
   - [Income Inequality BR](https://github.com/tamiresbeltrao/Income-Inequality-BR)
+  - [Ease of Doing Business global](https://github.com/tamiresbeltrao/Ease-doing-business)
 
 ## 💬 Let's talk!
 
